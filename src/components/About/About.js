@@ -58,7 +58,6 @@ function About() {
           <Techstack iconName="cib-visual-studio-code" />
           <Techstack iconName="cib-jetbrains" />
         </Row>
-        <Github />
       </Container>
     </Container>
   );
