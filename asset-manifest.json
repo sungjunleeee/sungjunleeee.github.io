@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/deployment_test/static/css/main.faa61397.chunk.css",
+    "main.js": "/deployment_test/static/js/main.e3641c87.chunk.js",
+    "main.js.map": "/deployment_test/static/js/main.e3641c87.chunk.js.map",
+    "runtime-main.js": "/deployment_test/static/js/runtime-main.32a25bd4.js",
+    "runtime-main.js.map": "/deployment_test/static/js/runtime-main.32a25bd4.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/deployment_test/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.b423fb32.chunk.js": "/deployment_test/static/js/2.b423fb32.chunk.js",
+    "static/js/2.b423fb32.chunk.js.map": "/deployment_test/static/js/2.b423fb32.chunk.js.map",
+    "static/js/3.e3c0dc8e.chunk.js": "/deployment_test/static/js/3.e3c0dc8e.chunk.js",
+    "static/js/3.e3c0dc8e.chunk.js.map": "/deployment_test/static/js/3.e3c0dc8e.chunk.js.map",
+    "index.html": "/deployment_test/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/deployment_test/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.faa61397.chunk.css.map": "/deployment_test/static/css/main.faa61397.chunk.css.map",
+    "static/js/2.b423fb32.chunk.js.LICENSE.txt": "/deployment_test/static/js/2.b423fb32.chunk.js.LICENSE.txt",
+    "static/media/Soumyajit-Behera.c6e8a1ce.pdf": "/deployment_test/static/media/Soumyajit-Behera.c6e8a1ce.pdf",
+    "static/media/about.aee0f771.png": "/deployment_test/static/media/about.aee0f771.png",
+    "static/media/avatar.5852f40f.svg": "/deployment_test/static/media/avatar.5852f40f.svg",
+    "static/media/codeEditor.ba945879.png": "/deployment_test/static/media/codeEditor.ba945879.png",
+    "static/media/eeg.2304f467.gif": "/deployment_test/static/media/eeg.2304f467.gif",
+    "static/media/emotion.e92e314a.jpeg": "/deployment_test/static/media/emotion.e92e314a.jpeg",
+    "static/media/style.css": "/deployment_test/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/deployment_test/static/media/home-main.541f8179.svg",
+    "static/media/leaf.4c15d6eb.png": "/deployment_test/static/media/leaf.4c15d6eb.png",
+    "static/media/plant.c9d382ae.jpeg": "/deployment_test/static/media/plant.c9d382ae.jpeg",
+    "static/media/suicide.b72f1f9f.png": "/deployment_test/static/media/suicide.b72f1f9f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32a25bd4.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.b423fb32.chunk.js",
+    "static/css/main.faa61397.chunk.css",
+    "static/js/main.e3641c87.chunk.js"
+  ]
+}
