@@ -26,7 +26,7 @@ function Projects() {
               imgPath={nomad}
               isBlog={false}
               title="Nomad Coders Translator"
-              description="Nomad Coders is a online platform where all people can build their own project mainly by imitating popular web sites such as YouTube, AirBnB, and etc. I'm translating English into Korean to provide students their best learning experience."
+              description="Nomad Coders is a online platform where all people from beginners to advanced can build their own project mainly by imitating popular web sites such as YouTube, AirBnB, and etc. I'm translating English into Korean to provide students their best learning experience."
               link="https://nomadcoders.co/"
             />
           </Col>
