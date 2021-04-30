@@ -15,32 +15,22 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with programming and focusing on web projects.
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Python and Javascript. </b>
+                <b className="purple"> Python, Java, and Javascript</b>.
               </i>
               <br />
               <br />
-              My current focus is on &nbsp;
+              I'm also intersted in&nbsp;
               <i>
                 <b className="purple">
-                  Deep Learning and Natural Language Processing.
+                  applying artificial intelligence on web development
                 </b>
               </i>
+              .
               <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with
-              <i>
-                <b className="purple"> Modern Javascript Frameworks</b>
-              </i>
-                &nbsp; like
-              <i>
-                <b className="purple"> Node.js and React.js</b>
-              </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -51,14 +41,14 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1>To get more info</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Feel free to <span className="purple">contact</span> me
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/sungjunleeee"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -68,17 +58,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <i className="fab fa-twitter"></i>
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/sungjun-lee-7b5b83203/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -88,12 +68,12 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
+                  href="mailto:Sungjun.Lee@stonybrook.edu"
                   target="_blank"
                   rel="noreferrer"
-                  className="icon-colour home-social-icons"
+                  className="icon-colour  home-social-icons"
                 >
-                  <i className="fab fa-instagram"></i>
+                  <i className="fas fa-envelope"></i>
                 </a>
               </li>
             </ul>
