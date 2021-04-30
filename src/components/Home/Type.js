@@ -8,7 +8,7 @@ function Type() {
         strings: [
           "SUNY Korea (SBU)",
           "Majoring in Computer Science",
-          "Developer",
+          "Software Developer",
         ],
         autoStart: true,
         loop: true,
